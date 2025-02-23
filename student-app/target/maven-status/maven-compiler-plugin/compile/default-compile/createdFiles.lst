@@ -1,0 +1,5 @@
+com/svr/student_app/model/Student.class
+com/svr/student_app/repository/StudentRepository.class
+com/svr/student_app/StudentAppApplication.class
+com/svr/student_app/dtos/StudentDto.class
+com/svr/student_app/controller/StudentController.class
